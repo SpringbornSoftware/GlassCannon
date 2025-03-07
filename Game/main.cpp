@@ -6,5 +6,6 @@
 _Use_decl_annotations_
 int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int)
 {
+	runApplication();
 	return 0;
 }
